@@ -1,1 +1,1 @@
-这是一个基于pettingzoo的maddpg的pytorch实现
+这是一个基于pettingzoo.mpe的maddpg的pytorch实现
